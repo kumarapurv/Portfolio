@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Kumar Apurv</title>
+    <link>https://kumarapurv.github.io/Portfolio/post/</link>
+    <description>Recent content in Projects on Kumar Apurv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://kumarapurv.github.io/Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Perception for a Small Autonomous Racecar Systems</title>
+      <link>https://kumarapurv.github.io/Portfolio/post/project-1/</link>
+      <pubDate>Sat, 09 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://kumarapurv.github.io/Portfolio/post/project-1/</guid>
+      <description>Built the Racecar’s platform using Nvidia Jetson TX2 as the processing unit and ZED Stereo Camera as visual input Developed perception algorithm in Python 2 using Robot Operating System (ROS) Object detection in racecar’s environment using YOLO v3 Distance estimation of these objects using stereo camera parameters Forwarded the perception data to the master controller of the ROS node (to perform the next steps, i.e., planning and control of the racecar) The algorithm was designed to perform high-speed calculations and work in real-time    Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Sentiment Analysis with Machine Learning</title>
+      <link>https://kumarapurv.github.io/Portfolio/post/project-2/</link>
+      <pubDate>Fri, 10 Apr 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://kumarapurv.github.io/Portfolio/post/project-2/</guid>
+      <description>Determined the emotional coloring of twits (a positive or negative sentiment) using various Machine Learning models Performances of several ML models mentioned below were compared  Support Vector Machines Multinomial Naive Bayes Bernoulli Naive Bayes Decision Trees Logistic Regression   The best performing model was picked to perform further analysis Achieved an accuracy of 76.5% and an F1-score of 0.8    Link to GitHub Repository</description>
+    </item>
+    
+  </channel>
+</rss>
